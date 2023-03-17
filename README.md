@@ -28,7 +28,7 @@ There is no configuration for this plugin. I don't plan on adding any configurat
 
 ## Demonstration
 
-<div align="center"><img src="Demo.gif" alt="Demonstration" title="Demonstration" /></div>
+<div align="center"><img src="img/Demo.gif" alt="Demonstration" title="Demonstration" /></div>
 
 ## Building
 1. Clone or download this repository.
