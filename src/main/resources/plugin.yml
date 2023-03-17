@@ -1,0 +1,7 @@
+name: TroutToss
+version: 1.0.0
+description: Throwable Trout (Raw Salmon)
+author: Jeremaster101
+main: xyz.jeremynoesen.trouttoss.TroutToss
+api-version: 1.13
+
